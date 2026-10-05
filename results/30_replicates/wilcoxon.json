@@ -1,0 +1,122 @@
+{
+  "A_vs_B_event_fnr": {
+    "n": 30,
+    "stat": 0.0,
+    "pvalue": NaN
+  },
+  "B_vs_C_event_fnr": {
+    "n": 30,
+    "stat": 0.0,
+    "pvalue": 0.00020660931988022651
+  },
+  "B_vs_C22_event_fnr": {
+    "n": 30,
+    "stat": 0.0,
+    "pvalue": 1.6322428529318053e-06
+  },
+  "B_vs_C_star_event_fnr": {
+    "n": 30,
+    "stat": 0.0,
+    "pvalue": 1.5830823860885878e-06
+  },
+  "B_vs_Cprime_event_fnr": {
+    "n": 30,
+    "stat": 0.0,
+    "pvalue": NaN
+  },
+  "B_vs_C_frank_event_fnr": {
+    "n": 30,
+    "stat": 0.0,
+    "pvalue": 0.00014170624006438345
+  },
+  "A_vs_B_time_fnr": {
+    "n": 30,
+    "stat": 59.0,
+    "pvalue": 0.0001528710126876831
+  },
+  "B_vs_C_time_fnr": {
+    "n": 30,
+    "stat": 0.0,
+    "pvalue": 1.862645149230957e-09
+  },
+  "B_vs_C22_time_fnr": {
+    "n": 30,
+    "stat": 0.0,
+    "pvalue": 1.862645149230957e-09
+  },
+  "B_vs_C_star_time_fnr": {
+    "n": 30,
+    "stat": 0.0,
+    "pvalue": 1.862645149230957e-09
+  },
+  "B_vs_Cprime_time_fnr": {
+    "n": 30,
+    "stat": 0.0,
+    "pvalue": 1.862645149230957e-09
+  },
+  "B_vs_C_frank_time_fnr": {
+    "n": 30,
+    "stat": 0.0,
+    "pvalue": 1.862645149230957e-09
+  },
+  "A_vs_B_far_per_hour": {
+    "n": 30,
+    "stat": 196.5,
+    "pvalue": 0.6495748826260395
+  },
+  "B_vs_C_far_per_hour": {
+    "n": 30,
+    "stat": 2.0,
+    "pvalue": 1.5062458514060605e-05
+  },
+  "B_vs_C22_far_per_hour": {
+    "n": 30,
+    "stat": 199.0,
+    "pvalue": 0.6891005482962556
+  },
+  "B_vs_C_star_far_per_hour": {
+    "n": 30,
+    "stat": 190.5,
+    "pvalue": 0.559245227680437
+  },
+  "B_vs_Cprime_far_per_hour": {
+    "n": 30,
+    "stat": 195.0,
+    "pvalue": 0.8553925973334704
+  },
+  "B_vs_C_frank_far_per_hour": {
+    "n": 30,
+    "stat": 4.0,
+    "pvalue": 4.393009840592695e-05
+  },
+  "A_vs_B_mean_delay_min": {
+    "n": 30,
+    "stat": 37.0,
+    "pvalue": 9.487819008482276e-05
+  },
+  "B_vs_C_mean_delay_min": {
+    "n": 30,
+    "stat": 0.0,
+    "pvalue": 1.862645149230957e-09
+  },
+  "B_vs_C22_mean_delay_min": {
+    "n": 30,
+    "stat": 0.0,
+    "pvalue": 1.862645149230957e-09
+  },
+  "B_vs_C_star_mean_delay_min": {
+    "n": 30,
+    "stat": 0.0,
+    "pvalue": 1.862645149230957e-09
+  },
+  "B_vs_Cprime_mean_delay_min": {
+    "n": 30,
+    "stat": 0.0,
+    "pvalue": 1.732216233144114e-06
+  },
+  "B_vs_C_frank_mean_delay_min": {
+    "n": 30,
+    "stat": 0.0,
+    "pvalue": 1.862645149230957e-09
+  }
+}
